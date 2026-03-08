@@ -1,0 +1,8 @@
+python-telegram-bot==21.0
+groq
+langchain
+faiss-cpu
+pypdf
+sentence-transformers
+openai-whisper
+python-dotenv
